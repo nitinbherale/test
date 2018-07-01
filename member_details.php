@@ -19,17 +19,7 @@ $resultArray=array();
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8" />
-
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta http-equiv="cache-control" content="no-cache" />
-<meta name="publisher" content="Newsmax Multimedia Private Limited" />
-<meta name="copyright" content="Newsmax Multimedia Private Limited" />
-<meta name="author" content="Design: Newsmax Multimedia Private Limited (www.nmpl.biz) / Modified: Sagar M. Pardeshi" />
-<meta name="distribution" content="global" />
+.<meta name="distribution" content="global" />
 <meta name="description" content="Official Website Of Kalyan Dombivli Municipal Corporation, KDMC Mahapalika, KDMC, Municipal Corporation Of Kalyan Dombivli."/>
 <meta name="keywords" content="Kalyan Dombivli Municipal Corporation, Official Website, KDMC, Kalyan, Dombivli, Municipal Corporation, Bombay Provincial Municipal Corporation Act 1949, KDMC Commissioner, KDMC Mayor, Standing Committee, Ward Committee, Transport Committee, RTI, Services,  Newsmax Multimedia Pvt Ltd."/>
 
@@ -93,6 +83,9 @@ figcaption{font-size: 12px;}
                             <div class="fl width411 ml10">
                                 <table cellpadding="0" cellspacing="2" width="411" class="comm_table_style bold mt10">
                                     <tbody>
+ewjdhygweftftrf6
+
+ededygdegyd
                                         <tr valign="top">
                                             <td width="195" class="bg990c00">Name</td>
                                             <td width="195"><?php echo $resultArray[0]['name'];?></td>
